@@ -1,0 +1,42 @@
+{
+    "books": [
+      {
+        "id": 0, 
+        "title": "The Quantom", 
+        "author":"Michael Brooks", 
+        "pdate": "1/12/2014",
+        "imageURL":"https://res.cloudinary.com/einat/image/upload/v1529425909/book1.jpg"
+      },
+      {
+        "id": 1, 
+        "title": "The Idiot", 
+        "author": "Elif Batuman", 
+        "pdate": "16/08/2015",
+        "imageURL":"https://res.cloudinary.com/einat/image/upload/v1529425909/book2.jpg"
+      },
+
+      {
+        "id": 2, 
+        "title": "The blue whale", 
+        "author": "Jenni Desmond", 
+        "pdate": "02/09/2017",
+        "imageURL": "https://res.cloudinary.com/einat/image/upload/v1529425909/book6.jpg"
+      },
+
+      {
+        "id": 3, 
+        "title": "All we saw", 
+        "author": "Anne Michaels", 
+        "pdate": "13/02/1952",
+        "imageURL":"https://res.cloudinary.com/einat/image/upload/v1529425909/book5.jpg"
+      },
+
+      {
+        "id": 4, 
+        "title": "The plague", 
+        "author": "Albert Camus", 
+        "pdate": "12/05/1908",
+        "imageURL":"https://res.cloudinary.com/einat/image/upload/v1529425909/book4.jpg"
+      }
+    ]
+  }
